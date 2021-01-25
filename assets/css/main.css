@@ -1294,7 +1294,6 @@ input, select, textarea {
 			display: flex;
 			align-content: center;
 			align-self: center;
-			top: 3.5em;
 		}
 
 			#header .logo .icon:before {
