@@ -1442,6 +1442,7 @@ input, select, textarea {
 			#header .logo {
 				display: flex;
 				justify-content: center;
+				align-self: center;
 				width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
