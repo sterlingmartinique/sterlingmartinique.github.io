@@ -1288,6 +1288,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
