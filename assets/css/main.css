@@ -603,6 +603,7 @@ input, select, textarea {
 	.icon {
 		display: flex;
 		justify-content: center;
+		align-self: center;
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
