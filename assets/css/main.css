@@ -601,6 +601,9 @@ input, select, textarea {
 /* Icon */
 
 	.icon {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
@@ -1288,10 +1291,6 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			display: block;
-			position: absolute;
-			margin-left: auto;
-			margin-right: auto;
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
@@ -1442,7 +1441,6 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				position: relative;
 				display: block;
 				margin-left: auto;
 				margin-right: auto;
